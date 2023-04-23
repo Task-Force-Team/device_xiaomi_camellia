@@ -149,6 +149,9 @@ ro.netflix.bsp_rev=MTK6833-32817-1
 persist.vendor.connsys.fm_chipid=mt6631_6635
 ro.vendor.fm.platform=mt6631_6635
 
+# Feature flags
+persist.sys.fflag.override.settings_enable_monitor_phantom_procs=false
+
 # Gatekeeper
 ro.hardware.gatekeeper=beanpod
 
