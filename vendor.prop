@@ -74,6 +74,8 @@ ro.soc.model=MT6833
 
 # Dalvik
 dalvik.vm.dex2oat64.enabled=true
+ro.sys.fw.dex2oat_thread_count=8
+dalvik.vm.systemuicompilerfilter=speed
 
 # Display
 debug.mediatek.appgamepq_compress=1
