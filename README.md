@@ -11,7 +11,7 @@
 | -----------------------:|:------------------------------------------------------------------------------------------------------------------------------ |
 | CPU                     | Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)                                                 |
 | Chipset                 | MediaTek MT6833 Dimensity 700 5G (7 nm)                                                                                       |
-| GPU                     | Mali-G77 MC9                                                                                                                   |
+| GPU                     | Mali G57 MC2                                                                                                             |
 | Memory                  | 4/6/8 GB RAM                                                                                                                     |
 | Shipped Android Version | 11.0                                                                                                                           |
 | Storage                 | 64/128/256 GB                                                                                                                     |
