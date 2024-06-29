@@ -1,4 +1,4 @@
-# Android Device tree for Redmi Note 10 5G/Note 10T/Note 11 SE/Poco M3 Pro (camellia/camellian)
+# Android Device tree for Redmi Note 10 5G/Note 10T/Note 11 SE/Poco M3 Pro (camellia/camellian) [EOL]
 
 ```
 #
