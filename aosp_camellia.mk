@@ -14,6 +14,9 @@ $(call inherit-product, device/xiaomi/camellia/device.mk)
 # Inherit some common PixelBuilds stuff.
 $(call inherit-product, vendor/pb/config/common_full_phone.mk)
 
+# MiuiCamera
+$(call inherit-product-if-exists, vendor/MiuiCameraLeica/config.mk)
+
 TARGET_SUPPORTS_GOOGLE_RECORDER := true
 TARGET_INCLUDE_STOCK_ARCORE := true
 TARGET_INCLUDE_LIVE_WALLPAPERS := true
