@@ -237,6 +237,17 @@ ro.vendor.num_md_protocol=2
 ro.vendor.sim_me_lock_mode=3
 telephony.lteOnCdmaDevice=1
 
+# Perf
+ro.vendor.extension_library=libqti-perfd-client.so
+ro.vendor.perf-hal.ver=2.2
+ro.vendor.qspm.enable=true
+ro.vendor.beluga.p=0x3
+ro.vendor.beluga.c=0x4800
+ro.vendor.beluga.s=0x900
+ro.vendor.beluga.t=0x240
+vendor.power.pasr.enabled=true
+vendor.pasr.activemode.enabled=true
+
 # IMS
 persist.vendor.anr.enhancement=0
 persist.vendor.ims_support=1
