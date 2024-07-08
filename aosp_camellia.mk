@@ -14,6 +14,9 @@ $(call inherit-product, device/xiaomi/camellia/device.mk)
 # Inherit some common PixelExperience stuff.
 $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 
+# MiuiCamera
+$(call inherit-product-if-exists, vendor/MiuiCameraLeica/config.mk)
+
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_USES_AOSP_RECOVERY := true
 TARGET_SUPPORTS_QUICK_TAP := true
